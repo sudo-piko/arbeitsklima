@@ -4,11 +4,11 @@ piko & ajuvo
 
 ## Kontakt
 
-mail: arbeitsklima@ithea.de
+**Mail**  
+arbeitsklima@ithea.de
 
-mastodon:    
-
-@ajuvo@chaos.social
+**Mastodon**
+@ajuvo@chaos.social  
 @piko@chaos.social
 
 ## Was wir machen
@@ -17,9 +17,9 @@ Wir gehören zu einer Gruppe von Menschen aus dem Chaos, die auf Einladung von C
 
 ## Ressourcen
 
-+ [Vortragsaufzeichnung mrmcd20](LINK)
++ [Vortragsaufzeichnung mrmcd20](https://media.ccc.de/v/2023-262-gutes-arbeitsklima-fr-nerds)
 + [Workshopankündigung auf 37c3](https://events.ccc.de/congress/2023/hub/de/event/arbeitsklima-in-der-it/)
-+ [Handout 37c3](LINK)
++ [Handout 37c3](TBD)
 + Demnächst: Podcastfolge im Hyperbandrauschen (hybr.de)
 
 
