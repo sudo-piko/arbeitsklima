@@ -26,9 +26,9 @@ Wir gehören zu einer Gruppe von Menschen aus dem Chaos, die auf Einladung von C
 
 ---
 
-impressum
+**impressum**
 
-stephan ajuvo
-ehrenbergstr. 16a # 01158
-10245 berlin
-arbeitsklima@ithea.de 
+stephan ajuvo  
+ehrenbergstr. 16a # 01158  
+10245 berlin  
+arbeitsklima@ithea.de   
