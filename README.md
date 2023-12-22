@@ -19,7 +19,7 @@ Wir gehören zu einer Gruppe von Menschen aus dem Chaos, die auf Einladung von C
 
 + [Vortragsaufzeichnung mrmcd20](https://media.ccc.de/v/2023-262-gutes-arbeitsklima-fr-nerds)
 + [Workshopankündigung auf 37c3](https://events.ccc.de/congress/2023/hub/de/event/arbeitsklima-in-der-it/)
-+ [Handout 37c3](TBD)
++ [Handout 37c3](https://upload.disroot.org/r/G0tVXb1u#RAyjS2JxWX4x99yYZ5sn3iTFGaNbG9F8+wYKCG7JQ58=)
 + Demnächst: Podcastfolge im Hyperbandrauschen (hybr.de)
 
 
