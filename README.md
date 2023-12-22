@@ -8,8 +8,8 @@ piko & ajuvo
 arbeitsklima@ithea.de
 
 **Mastodon**  
-@ajuvo@chaos.social  
-@piko@chaos.social
+[@ajuvo@chaos.social](https://chaos.social/@ajuvo/)  
+[@piko@chaos.social](https://chaos.social/@piko/)
 
 ## Was wir machen
 
