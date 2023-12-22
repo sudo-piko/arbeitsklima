@@ -7,7 +7,7 @@ piko & ajuvo
 **Mail**  
 arbeitsklima@ithea.de
 
-**Mastodon**
+**Mastodon**  
 @ajuvo@chaos.social  
 @piko@chaos.social
 
